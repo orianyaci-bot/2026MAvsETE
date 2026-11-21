@@ -1,0 +1,602 @@
+[
+  {
+    "sheet": "Sheet1",
+    "index": 1262,
+    "data": {
+      "性别": "Female",
+      "年龄": "38",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2393,
+    "data": {
+      "性别": "Male",
+      "年龄": "46",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1138,
+    "data": {
+      "性别": "Male",
+      "年龄": "41",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Other, Non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2182,
+    "data": {
+      "性别": "Male",
+      "年龄": "52",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 105,
+    "data": {
+      "性别": "Female",
+      "年龄": "61",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1896,
+    "data": {
+      "性别": "Male",
+      "年龄": "53",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 21,
+    "data": {
+      "性别": "Male",
+      "年龄": "30",
+      "国家": "No answer",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Black, Non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2050,
+    "data": {
+      "性别": "Male",
+      "年龄": "64",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1843,
+    "data": {
+      "性别": "Female",
+      "年龄": "55",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1060,
+    "data": {
+      "性别": "Male",
+      "年龄": "60",
+      "国家": "Egypt",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 210,
+    "data": {
+      "性别": "Female",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2127,
+    "data": {
+      "性别": "Male",
+      "年龄": "61",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2030,
+    "data": {
+      "性别": "Male",
+      "年龄": "31",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 743,
+    "data": {
+      "性别": "Female",
+      "年龄": "68",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 773,
+    "data": {
+      "性别": "Female",
+      "年龄": "44",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1977,
+    "data": {
+      "性别": "Male",
+      "年龄": "72",
+      "国家": "Brazil",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2272,
+    "data": {
+      "性别": "Female",
+      "年龄": "43",
+      "国家": "Spain",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2096,
+    "data": {
+      "性别": "Female",
+      "年龄": "19",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 594,
+    "data": {
+      "性别": "Female",
+      "年龄": "31",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Lower class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2282,
+    "data": {
+      "性别": "Female",
+      "年龄": "27",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1684,
+    "data": {
+      "性别": "Female",
+      "年龄": "26",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2177,
+    "data": {
+      "性别": "Male",
+      "年龄": "72",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2040,
+    "data": {
+      "性别": "Male",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 123,
+    "data": {
+      "性别": "Female",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1168,
+    "data": {
+      "性别": "Female",
+      "年龄": "29",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Lower class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 47,
+    "data": {
+      "性别": "Female",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Lower class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2072,
+    "data": {
+      "性别": "Male",
+      "年龄": "22",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 219,
+    "data": {
+      "性别": "Female",
+      "年龄": "21",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 450,
+    "data": {
+      "性别": "Female",
+      "年龄": "29",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 338,
+    "data": {
+      "性别": "Male",
+      "年龄": "23",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower class",
+      "种族": "US: Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 20,
+    "data": {
+      "性别": "Female",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 641,
+    "data": {
+      "性别": "Female",
+      "年龄": "34",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1144,
+    "data": {
+      "性别": "Male",
+      "年龄": "69",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2473,
+    "data": {
+      "性别": "Male",
+      "年龄": "41",
+      "国家": "United States",
+      "教育水平": "Master or equivalent (ISCED 7)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1759,
+    "data": {
+      "性别": "Male",
+      "年龄": "34",
+      "国家": "United States",
+      "教育水平": "Doctoral or equivalent (ISCED 8)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1508,
+    "data": {
+      "性别": "Male",
+      "年龄": "49",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2098,
+    "data": {
+      "性别": "Male",
+      "年龄": "62",
+      "国家": "United States",
+      "教育水平": "Bachelor or equivalent (ISCED 6)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1064,
+    "data": {
+      "性别": "Male",
+      "年龄": "60",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2351,
+    "data": {
+      "性别": "Female",
+      "年龄": "76",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 343,
+    "data": {
+      "性别": "Male",
+      "年龄": "53",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 285,
+    "data": {
+      "性别": "Female",
+      "年龄": "29",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Lower class",
+      "种族": "US: Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 969,
+    "data": {
+      "性别": "Female",
+      "年龄": "28",
+      "国家": "Armenia",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 174,
+    "data": {
+      "性别": "Female",
+      "年龄": "29",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 1367,
+    "data": {
+      "性别": "Female",
+      "年龄": "39",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 376,
+    "data": {
+      "性别": "Female",
+      "年龄": "54",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Working class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2349,
+    "data": {
+      "性别": "Male",
+      "年龄": "80",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Upper middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2452,
+    "data": {
+      "性别": "Female",
+      "年龄": "30",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Two plus, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 195,
+    "data": {
+      "性别": "Female",
+      "年龄": "27",
+      "国家": "United States",
+      "教育水平": "Post-secondary non-tertiary education (ISCED 4)",
+      "社会阶层": "Working class",
+      "种族": "US: Black, Non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 155,
+    "data": {
+      "性别": "Female",
+      "年龄": "31",
+      "国家": "United States",
+      "教育水平": "Short-cycle tertiary education (ISCED 5)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: White, non-Hispanic"
+    }
+  },
+  {
+    "sheet": "Sheet1",
+    "index": 2523,
+    "data": {
+      "性别": "Male",
+      "年龄": "77",
+      "国家": "United States",
+      "教育水平": "Upper secondary education (ISCED 3)",
+      "社会阶层": "Lower middle class",
+      "种族": "US: Hispanic"
+    }
+  }
+]
